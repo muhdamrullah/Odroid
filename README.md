@@ -1,4 +1,0 @@
-Odroid
-======
-
-Age + Gender + Emotion
